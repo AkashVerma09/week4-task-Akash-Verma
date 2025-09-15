@@ -1,0 +1,4 @@
+1. Customers with higher income tend to have higher Affluence_Index but SpendingScore correlation is weak.
+2. Gender distribution is skewed toward Male in this synthetic sample.
+3. Several original entries had inconsistent categorical spellings; cleaning unified them.
+4. Median age used to impute missing ages; check sensitivity for real data.
