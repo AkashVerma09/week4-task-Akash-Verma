@@ -76,4 +76,4 @@ All plots are saved in the **`plots/`** folder:
 - `insights.txt` → Summary of findings  
 
 ---
-#This project was created as a Week 4 mini-task to practice a complete data analysis pipeline using Jupyter Notebook.
+# This project was created as a Week 4 mini-task to practice a complete data analysis pipeline using Jupyter Notebook.
